@@ -8,10 +8,10 @@ Here I put shell scripts that I have been ever using for
 ## In a Nutshell
 
 - learning cases
-  - [jq](learning/example_jq.sh)
+  - [jq](./learning/example_jq.sh)
 
 - facilities
-  - [logging](logging/logging.md)
+  - [logging](./logging)
 
 ## Examples
 
